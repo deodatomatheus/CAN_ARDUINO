@@ -1,0 +1,4 @@
+BUGS
+    Non remote transmission request frame to normal frame
+    remote transmission request frame to extended frame
+    Non remote transmission request frame to extended frame
